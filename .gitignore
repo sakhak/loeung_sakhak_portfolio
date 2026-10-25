@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+**/vendor/
+**/node_modules/
+**/dist/
+**/.DS_Store
+backend/storage/*.key
+backend/storage/logs/*.log
